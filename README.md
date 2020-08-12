@@ -4,7 +4,7 @@ In this project, I'll be exploring the wine quality dataset from the [UCI Machin
 
 For more information about this dataset, feel free to checkout `winequality.names`, also located in this repository.
 
-TO-DO:
+## TO-DO:
 
 Test the following:
 - Alcohol with quality
